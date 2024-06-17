@@ -1,0 +1,10 @@
+Enter mode of input(encode or decode): encode
+enter text: zoya2!
+enter key to input: 1
+encoded text is  apzb2!
+do you want to continue:yes
+Enter mode of input(encode or decode): decode
+enter text: apzb2!
+enter key to input: 1
+decoded text is  zoya2!
+do you want to continue:no
